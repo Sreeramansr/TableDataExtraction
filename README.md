@@ -51,9 +51,6 @@ Optimized AI Processing: Refining prompt engineering for better GPT-4o (vision) 
 
 Advanced OCR Solutions: Exploring additional OCR engines to improve recognition capabilities.
 
-## License
-
-This project is open-source and available for further development and contributions. Please refer to the LICENSE file for usage terms.
 
 ## Acknowledgments
 
