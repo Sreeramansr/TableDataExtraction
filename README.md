@@ -1,11 +1,11 @@
 # TableDataExtraction
 StreamLit Table Detection Application
 
-Overview
+## Overview
 
 The StreamLit Table Detection Application is designed to extract structured table data from images using an advanced pipeline that combines object detection, Optical Character Recognition (OCR), and AI-based data processing. The application utilizes a combination of Detectron2 for table detection, PaddleOCR for text extraction, and GPT-4 for structuring the extracted data.
 
-Components
+## Components
 
 1. Table Detection Module
 
@@ -41,7 +41,7 @@ Post-Processing: The extracted data is refined and formatted.
 
 Final Output: The cleaned table data is saved in the desired format.
 
-Improving Accuracy
+## Improving Accuracy
 
 To further enhance accuracy, future improvements may include:
 
@@ -51,10 +51,10 @@ Optimized AI Processing: Refining prompt engineering for better GPT-4o (vision) 
 
 Advanced OCR Solutions: Exploring additional OCR engines to improve recognition capabilities.
 
-License
+## License
 
 This project is open-source and available for further development and contributions. Please refer to the LICENSE file for usage terms.
 
-Acknowledgments
+## Acknowledgments
 
 Special thanks to the developers and contributors of Detectron2, Swin2SR, PaddleOCR, and OpenAI APIs for enabling this advanced table extraction workflow.
